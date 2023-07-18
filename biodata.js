@@ -1,1 +1,1 @@
-console.log("nama: muhammad daffa fauzan")
+console.log("nama: muhammad daffa fauzan alamat: bandung")
