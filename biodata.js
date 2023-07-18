@@ -1,0 +1,1 @@
+console.log("nama: muhammad daffa fauzan")
